@@ -1,0 +1,599 @@
+,,label,message
+train,0,0,kesho nafanya mahafali yangu
+train,1,1,Usisahau kutuma ilehela kwa namba hii  ya tigo 0715480789
+train,2,0,usiku mwema rafiki yangu
+train,3,1,Ile  hela nitumie kwa namba yangu mpya hii 0712 123 234 Ambwene Nyota
+train,4,0,leo nimekumbuka kukutafuta
+train,5,1,Ile hela tuma kwa namba hii 0712 200 300 Ally Juma
+train,6,0,Repoti utatuma lini ?
+train,7,1,Tuma kwa namba hii ya tigo 0712 452 24 Kassim Athuman
+train,8,0,Usisahau unahitajika ofisini
+train,9,1,Sasa nitumie ile hela kwa namba 0755 211 879 mimi ni Amina Hasani
+train,10,0,Naomba unitumie kile kitabu cha mwalimu
+train,11,1,Nimebadilisha namba tuma kwa namba hii mpya 0712 345   234
+train,12,0,Leo utaenda wapi kijana
+train,13,1,Nyumbani kuna dharura fanya haraka kutuma kwa namba hii 0718 299 24
+train,14,0,Kuna mtu kaniazima chaji mpaka badae
+train,15,1,Jana ulikosea kutuma hela fanya haraka kutuma kwa hii ya voda 065123098
+train,16,0,Nitachelewa kuludi
+train,17,1,Jana ulikosea kutuma hela fanya haraka kutuma kwa hii ya voda 0718200897
+train,18,0,Nishikie siti ya mbele ya mwalimu
+train,19,1,Tuna shida ya ada ya mdogo wako tuma kwa namba hii 0718 234 567 Haruna  Magoli
+train,20,0,Usinunue maji nimeshanunua
+train,21,1,Tuna shida ya muhimu sana huku nyumbani tuma kupitia namba hii 0712 353 098
+train,22,0,Mwalimu anachukua mahudhurio darasani
+train,23,1,Mdogo wako anahitaji hela ya matumizi shuleni tuma kwa namba hii 0712 345 876
+train,24,0,Malimu ameshaingia darasani
+train,25,1,Dada yako anahitaji hela kwa ajili ya mtoto wake umtumie kwa namba hii 0718 678 45
+train,26,0,Nikipanda gari za kimara nishuke wapi
+train,27,1,Mama yako anahitaji hela tuma kwa namba hii 075532124 Charles Nzota
+train,28,0,uko wapi kijana ?
+train,29,1,Kuna hela inahitajika nyumbani kwa ajili ya ujenzi tuma kwa namba hii 0767200231
+train,30,0,Nimeshakutumia ratiba utanamia kama hujaiona 
+train,31,1,Usisahau kutuma nyumbani hela ya ujenzi kwa namba hii 0712 345 234
+train,32,0,Njoo kwenye vimbweta si tulikubaliana 
+train,33,1,Ile hela ya mchango wa harusi tuma kwa namba hii ya kiongozi 078612312
+train,34,0,Tafadhari nipigie
+train,35,1,Mdogo wako anahitaji hela ya matumizi chuoni  tuma kwa namba hii 0712 345 200
+train,36,0,Samahani nani wewe
+train,37,1,Usisahau kutuma hela kwa namba hii 072 345 786 usajili ni Jacob Nziku
+train,38,0,Kwani amekwambia ni kiasi gani?
+train,39,1,Nimeishiwa hela kabisa ya matumizi nitumie kwa namba hii 0718  200 24
+train,40,0,Mambo vip kijana
+train,41,1,Simu yangu imepotea ile hela tuma kwa namba yangu mpya 067 299 212 ALLY ALLY
+train,42,0,We si uko na mafundi shida nini mzee
+train,43,0,Dada yako anahitaji hela kwa ajili ya safari mtumie yake   hii 0718 000 678
+train,44,1,Angalia majina ya wenzako kwenye group
+train,45,0,Kuna dharura huku nyumbani fanya haraka utume kwa namba hii 078 234 098
+train,46,1,Ila swali lazima lina majibu maana jamaa ametupa hadi kitabu chake
+train,47,0,Ile hela usisahau kutuma kwa namba hii namba ya usajili ni 0721 234 345
+train,48,0,Mie simesahau kubeba chaji yako
+train,49,1,Mdogo wako anahitaji hela ya tutition tuma kwa namba hii 067 789 234
+train,50,0,Bado swali lenyewe sina nawasubili wadau wafike
+train,51,1,Hela inahitajika nyumbani kuna mgonjwa 
+train,52,0,Umeanza kufanya kazi ya mwalimu
+train,53,1,Tumia hii namba kutuma hiyo pesa 0782 2334 098 usajili IBRAHIM SEIF
+train,54,0,Basi mimi nitaondoka muda si mrefu
+train,55,1,Ile hela itume kwa namba hii 0756 200 345 simu yangu inasumbua haiwaki
+train,56,0,Ninyi kama mnabaki mimi natangulia 
+train,57,1,Ile hela itume kwa namba hii 0756 987 345 jina litakuja DEBORA ELIA
+train,58,0,Leo naondoka mapema
+train,59,1,Makosa jana ya kutuma hela kwa mpesa  tuma kwa namba hii 0789 234 098
+train,60,0,Tangulia mzee nitakukuta pale kituoni
+train,61,1,Niliibiwa simu nimesajili laini mpya ile hela nitumie kwa namba hii 078 234 123
+train,62,0,Fanya maamuzi mapema maana leo tunawahi kuondoka 
+train,63,1,Namba yangu mupya ya simu nitumie ile hela kwa namba hii 078 123 567
+train,64,0,Mijengo nitaunga cha usiku 
+train,65,1,Mjomba wako anahitaji hela tuma kwa namba hii 067 242 098
+train,66,0,Unaenda kanisani ?
+train,67,1,Ile hela itume kwa namba hii 0712 342 987 jina linakuja Hamisa Mzee
+train,68,0,Mbona hujatuma ile kazi ?
+train,69,1,Nimekusubili tangia asubuhi mbona hutumi hela tuma kwa namba hii 07824 265 22
+train,70,0,Labda nikipata nitakupa zawadi siku nyingine
+train,71,1,Kuna mmatapeli  usitume hela kwa namba nyingine namba yangu ni hii 0712 345 876
+train,72,0,Mi hali yangu sio nzuri
+train,73,1,Nimesajili laini mpya ile hela tuma kwa namba hii 0781 242 345 Omary Jason
+train,74,0,Mi nikajua mtanifanyia sherehe
+train,75,1,Nimeibiwa simu ile hela tuma kwa namba hii 0782 345 677
+train,76,0,Nimekimbia wasije nimwagia maji
+train,77,1,Mbona bado hujanitumia ile hela 0712 564 876 Naftali Mpawa
+train,78,0,Ikipatikana uhakika wa kuishi upo mama
+train,79,1,Ile hela nitumie kwa namba hii 078 122 098 Kanzi Nyagwa
+train,80,0,Ndo nisome kwanza nione kama kitu kinaweza kufanyika
+train,81,1,Niko hapa kwa wakala tuma kwa namba hii 0712 35445
+train,82,0,Yule mzee ukimwelesha atakuelewa
+train,83,1,Ile laini nimepoteza nimesajili laini mpya tuma kwa namba hii 067 24 9872
+train,84,0,Unakuja saa ngapi chuo ?
+train,85,1,Ile hela tuma kwa namba hii 0755 422 542
+train,86,0,Hiyo kazi tutafanya kesho lakini
+train,87,1,Ile hela tuma kwa  namba hii 0782 124 21
+train,88,0,Nimeuliza baadhi ya wataalamu lakini hawako dar
+train,89,1,Tuma kwa namba hii ya michango ya kikundi 0712 242 244 Imelda  Sanga
+train,90,0,Kwanza hata laki ni ndogo sanaa
+train,91,1,Usichelewe kutuma hela ya msiba kwa namba hii 078 123 456
+train,92,0,Yaani nisingeuliza ningefeli ujue
+train,93,1,Leo usikose kutuma hela ya deni langu  kwa namba hii 0672 123 987
+train,94,0,Jamani mbona una utani na mimi gari nimepata wapi  ?
+train,95,1,Nakumushia kodi ya nyumba itumwe kwa namba hii 078 234 654
+train,96,0,Hamna shida rafiki yangu
+train,97,1,Ahadi yangu ya kufaulu mitihani ntume kwa namba hii 0712 67 234
+train,98,0,Kwa madili uliyo nayo ushatoka kimaisha
+train,99,1,Fanya  haraka kunituia hela kwa namba hii  0712 4 6768
+train,100,0,Najua wewe ni tajiri ukipata  kazi usinisahau
+train,101,1,Kodi ya mwezi huu nitumie kwa namba hii 078 123 422
+train,102,0,Sina kitu nimetumia yote yaani
+train,103,1,Jana ulishau kutuma hela fanya tuma kwa namba hii 078 242 239 Hasan Mussa
+train,104,0,Nimefuria rafiki yangu
+train,105,1,Mimi mwenye nyumba namba ya kutuma hela ni hii 0712 45 098
+train,106,0,Nasubili keki yangu
+train,107,1,Ile hela itumwe kwa namba hii 0782 233 456
+train,108,0,Hapana nitarudi badae
+train,109,1,Sina simu hela nitumie kwa namba hii 0782 344 788
+train,110,0,Hapana nilienda kula keki tu 
+train,111,1,Niazimie hela ntumie kwa namaba 0734 458 844
+train,112,0,Nikajua hali imebadilika ndo umeludi nyumbai
+train,113,1,Mbona hujatuma ile  hela tuma kwa namba hii 0783 897 838
+train,114,0,Nilienda kusalimia tu nyumbani
+train,115,1,Ile hela usisahau kurusha kwa namaba hii 0712  343 233
+train,116,0,Jioni nitakuja
+train,117,1,Nitumie ile hela kwa namaba hii 0717 344272y TITO MENARD
+train,118,0,Mbona hupokei simu
+train,119,1,Nisaidie kutuma hela kwa namba yangu hii 0788 200 455
+train,120,0,Kwani darsani kuna umeme?
+train,121,1,Hela ya kulindia mifugo ntumie kwa namba hii 0781 673 
+train,122,0,Usisahau nilichokwambia
+train,123,1,Ile hela nifanyie kwa hii namba 0788 243 889
+train,124,0,Wamesemaje leo darasani ?
+train,125,1,Jana hukutuma hela jitahili leo utume kwa hii namba 0781 347 737
+train,126,0,Umekata simu wakati unapita nimekuona
+train,127,1,Kijana hela ya usafi wa mazingira ni zmu yako tuma kwa 0782 772 767 MOE JOHN
+train,128,0,Nitumie sms niko darasani
+train,129,1,Hela ya vyombo inahitajika tuma kwa hii namba 0788 243 288
+train,130,0,Bado uko darasani ?
+train,131,1,Nirushie ile hela kwa hii ya tigo pesa 0717  200 448
+train,132,0,Ile kazi nimeshamtumia mwalimu
+train,133,1,Leo usisahau kurusha ile hela namba 0788 211 333 usajili Keneth Vumu
+train,134,0,Sasa kesho nitaelezea nini ?
+train,135,1,Natumani umeamka salama ile hela tuma kwa namba hii 078 1244 898
+train,136,1,Hela ya mikorosho inahitajika tuma kwa mpesa 0753 234 444
+train,137,1,Hela inahitaji nyumbani tuma kwa hii namba 0718 200 345
+train,138,0,Mshiriki no 5 ni kula marunda
+train,139,1,Fanya haraka kunitumia ile pesa  kwa hii namba 0782 337 383
+train,140,0,Wahi nafasi yako kijana
+train,141,1,Mimi ndugu  yako nilikuja mwaka jana nisaidie hela kwa namba hii 0783 488 338
+train,142,1,Mikorosho ipo tu lakini bonanza ni letu pia
+train,143,1,Shangazi yako hapa nitumie kwa namba hii 0782 112 987 ALLU MALACHI
+train,144,0,Mikorosho umehesabu au ndo unamwogopa chui
+train,145,1,Dadako anahitaji hela ya matumizi tuma kwa hii namba 0788 111 111
+train,146,0,Nafikiri mmesikia tangazo vizuri mnajijua 
+train,147,1,Jana ultuma hela ndogo tuma tuma kwa hyoya 0788 47 8 383
+train,148,0,Kesho kipindi kitakuwa saa 4.00 asubuhi
+train,149,1,Mimi Nitule Mwoka nitumie hela kwa namba yangu hii 067 224 24
+train,150,0,Magari ya makongo juu yanapatikana wapi ?
+train,151,1,Kijana wangu anahitaji mchango wako mtumie kwa mpesa namba hii 075 211 45
+train,152,0,Makundi tunatumia ya mwaka jana
+train,153,1,Ndugu yako Anito wa Kigoma anasumbuliwa rusha hela kwa namba hii 067 24 098
+train,154,0,Jumanne hakuna shule mtabaki mnafanya asseignment
+train,155,1,Umeambiwa na Anko yako nitumie ela ile ya jana kwa namba hii ya mpesa 075 242 098 
+train,156,0,Kuna laptop zinauzwa kma wahitaji fanya nitafute
+train,157,1,Ile hela ya jana tuma kwa namba hii yangu ya tigo 0715 200 000 usajili AMBOKO NNKO
+train,158,0,Kesho ni sherehe ya ndugu yetu Elisha Masha mnakaribishwa
+train,159,1,Tumwiteni Msonga wa Tanga nina shida na hela tuma kwa tigo pesa 0715 299 454
+train,160,0,Ambaye hajakusanya kazi atakusanya  wiki ijayo
+train,161,1,Namba yangu ni hii 0712 345 765 namba ya usajili James mayoko wa Tanga 
+train,162,0,Kwani yule ndugu yako anakaa mkoa gani
+train,163,1,Mama Mtuma Mganga wa kigoma anarurisha hela haraka namba yangu hii 0712 34 876 987
+train,164,0,Simu yangu nitapitia badae
+train,165,1,Mganga kutoka Kigoma anakupa pesa za majini nitafute kwa hii 0712 098 456
+train,166,0,Leo kuna mashindano ya kukimbiza kuku na kula
+train,167,1,Ile hela nituie kwa mpesa namba 0718 24 674 usajili KARIM MASUD
+train,168,0,Kwani jilani yako anakaa mtaa gani ?
+train,169,1,Mganga wa sumbawanga anarudisha mchumba haraka hela tuma kwa mpesa 075 298 876
+train,170,0,Kila mwanafunzi itabidi aandae repoti yake ya field
+train,171,1,Nina shida na hela nitumie kwa namba hii  0718 234 566 usajili AMBELE MWAKISOKA
+train,172,0,Jumatatu kila mwanafunzi aje na mchango
+train,173,1,Nilkuwa na shida ya hela nitumie kwa namba hii ya VODA  075 234 789 
+train,174,0,Ile asseignment tutafanya asubuhi hata mtu
+train,175,1,Kaka yako wa Bukoba nirushie hela kwa namba hii ya voda 075 456 765 
+train,176,0,Usisahau kuja na daftali la maswali
+train,177,1,Mtandao unasumbua ile hela nitumie kwa namba hii ya tigo 0712 24 4 908
+train,178,0,Nilimpigia asubuhi lakini alikuwa hapatikani
+train,179,1,Mganga anatibu mapenzi msaada namba ya huduma na pesa ni hii 0712 345 987
+train,180,0,Naomba mjaze fomu yangu nimetuma kwa group
+train,181,1,Nyumbani tunahitaji hela tuma kwa namba hii 0712 46 098
+train,182,0,Ofisi za walimu zimehamishwa jengo jipya
+train,183,1,Ile hela usisahau kutuma kwa namba hii ya tigo 065 244 542 usajili ALLY KISOMA
+train,184,0,Leo tutaenda kuwatembelea wahitaji maeneo ya Kigamboni
+train,185,1,Nakukumbusha ile hela nitumie kwa namba hii hii ya voda 075 243 098
+train,186,0,Kesho tutaenda Kigamboni kutembelea wenye uhitaji
+train,187,1,Mama Halifa mtaalamu  wa Jadi anakutafutia kazi kwa haraka nitafute kwa namba 078 234 987
+train,188,0,Jumanne kutakuwa na zoezi la kupiga kura za viongozi
+train,189,1,Mganga Asili kutoka Kasulu anakupa pesa za majini msaada nitafute kwa 078 234 987
+train,190,0,Leo nitashindwa kuja kuna mvua huku kwetu
+train,191,1,Namba yangu ya VODA ni hii 075 243 765 ile hela nitumie usajili ANNA JOHN
+train,192,0,Asubuhi kutakuwa na kikao asikose mtu yeyote
+train,193,1,Ile namba yangu ni hii nimerudishia ile hela tuma kwa hii 078 987 678 usajili AMISI NGODA
+train,194,0,Kama huna kitambulisho fanya mtafute kiongozi wako
+train,195,1,Naomba nitumie ile ela kwa namba hii 078 234 987 usajili Aruna Hasani
+train,196,0,Rariba ya mtihani imeshatoka 
+train,197,1,Nasubili ela uliyosema utatuma nitumie basi kwa namba hii 078 234 098
+train,198,0,Majibu ya maombi ya kazi yatatangazwa wiki ijayo
+train,199,1,Usisahau kutuma ela ya mchango kwa namba hii 067 244 064
+train,200,0,Mifuko ya plastiki haitumi usije tumia
+train,201,1,Namba yangu ni 0712 908 453 ile hela nitumie kwa hii
+train,202,0,Kwa wanaohitaji vitambulisho wanitafute
+train,203,1,Ile hela tuma kwa hii namba 078 452  987
+train,204,0,Jana nilisahau adapter aliyeiona aniambie
+train,205,1,Mganga wa Shinyanga anatibu magonjwa sugu namba ni 0712 234 987 nitafute 
+train,206,0,Mwenye namba ya Mkuu wa idara ya Michezo anisaidie
+train,207,1,Tunarudisha mpenzi kwa haraka nitafute kwa namba 078 244 098
+train,208,0,Kama hukukusanya kazi utakusanya badae
+train,209,1,Kwa haraka tunarudisha mpenzi aliyekukataa nicheki kwa namba 0712 234 098
+train,210,0,Leo kutakuwa na kongamano la wanafunzi wote la vyuo
+train,211,1,Jana ulisahau ile hela tuma kwa namba yangu ya voda 075 234 098
+train,212,0,Wanaohitaji laini za chuo zinapatikana kwangu 
+train,213,1,Mganga maarufu kutoka Njombe anarudisha mvuto wa mapenzi nitafute kwa 078 234 674
+train,214,0,Pc ya pavilion HP inauzwa bei gani Mlimani City ?0
+train,215,1,Nimekutafuta sana fanya basi ile hela kunitumia kwa namba yangu ya voda 075 674 230
+train,216,0,Wanaohitaji masahihihisho ya mtihani wamfuate ofisini
+train,217,1,Hela yangu uliyoniahidi nitumie kwa namba hii 0712 477 786 usajili JUMA NASHONI
+train,218,0,Mitihani tutaanza kufanya kuanzia mwezi wa saba mwanzoni
+train,219,1,Mbona ulisahau kutuma ela ya mchango tuma kwa namba hii 078 234 766 usajili HAMIS RAJABU
+train,220,0,Wanaoweza kujitolea wanaweza kumtafuta kiongozi wao
+train,221,1,Usajili bure wa kadi za benki hewani malipo kwanza tuma hela namba 078 234 096
+train,222,0,Wanafunzi wa Information System wanahitajika kwa DUP
+train,223,1,Mtatuzi wa madeni amekufikia popote ulipo nitafute kwa namba 0712 678 873
+train,224,0,Usafiri wa kwenda nyumbani umepatiakana
+train,225,1,Kijana wako AHMED MUSA wa pemba nahitaji msaada namba yangu ni 076 362 874
+train,226,0,Ofisi ya wanafunzi inawatakia mitiahani mema wanafunzi wote
+train,227,1,Tuma Hela upate madadufu tuma kwanza kwa namba hii 078 123 098
+train,228,0,Test imeahirishwa mpaka wiki ijayo
+train,229,1,Msaada wa hali na mali kutoa ni  moyo nitumie kwa namba 078 345 763
+train,230,0,Barabara ya chuo imefungwa haitumiki kwa muda
+train,231,1,Usisahau nirushie hela kwa namba ya voda hii 075 231 111
+train,232,0,Nahitaji kupata bidhaa za kisasa za nyumbani
+train,233,1,Tabibu matatizo ya ndoa na madeni kutoka Mwanza anatatua shida zako namba 078 231 211
+train,234,0,Nauli ya kwenda Bagamoyo ni shilingi ngapi?
+train,235,1,Dada wa Simiyu nimekutafuta sana ile ela jitahidi sana kunitumia kwa namba 067 234 876
+train,236,0,Nyumba za kupanga za kisasa zinapatikana Kinondoni
+train,237,1,Tunato hela bila riba jisajili kwa kutuma kianzio kwa namba ya tigo  067 728 239
+train,238,0,Leo kutakuwa na kikao cha wanafunzi wote wa ISM
+train,239,1,Nirushi hela kwa namba hii ya voda 076 244 111 usajili KARIM NZANI
+train,240,0,Kazi  itakusanywa wiki ijayo kwenye kipindi 
+train,241,1,Usisahau kunituma hela HALIFA NYOTA wa kigoma Kasulu namba 078 111 200
+train,242,0,Nimetuma link ya nafasi za kazi kwenye group
+train,243,1,Tunahitaji ela yako kwa ajili ya mchango wa harusi namba 075 211 907
+train,244,0,Vinywaji baridi vinapatikana pale kontena
+train,245,1,Mganga wa Manyoni analudisha mke haraka nitafute kwa namba 078 123 098
+train,246,0,Kuweni makini kuna uginjwa wa Dengue 
+train,247,1,Hela ya ada tuma kwa namba hii 076 137 776 usajili YUSUPH WENSLAUS
+train,248,0,Kuna vitabu vinapatikan ofisini
+train,249,1,Kikundi cha kutoa fedha jisali kwa gharma nafuu namba 078 233 873
+train,250,0,Jumanne kutakuwa na IDD kipindi mpaka wiki ijayo
+train,251,1,Hela ulioniahidi nitumie kwa hii namba hii ya voda 076 876  987
+train,252,0,Taasisi ya Elimu ya watu wazima imetangaza kazi 
+train,253,1,Mganga kutoka kasulu ni suluhisho ya ndoa nitafute kwa namba 076 098 373
+train,254,0,Sherehe ya mahafali itafanyika kama ilivyopangwa
+train,255,1,Hela tuma kwa namba hii ya tigo 067 234 098
+train,256,0,Msaada wa lecture ya kipindi kilicho pita
+train,257,1,Kutoka Babati mdogo wako anahitaji ela ya matumizi namba 078 383 092
+train,258,0,Mwenye namba ya CR naomba
+train,259,0,Atakaye pitia Bamaga anipitie tuende nae
+train,260,1,Usiadanganyike ile hela nitumie kwa namba yangu ya voda 075 000 706
+train,261,1,Msaada wako ndugu yangu nirushie kwa namba 0745 098 736 usajili WARID BARAKA
+train,262,1,Rusha ile hela kwa namba ya tigo 065 000 231 usajili upendo hajib
+train,263,0,Ofisi ya Waziri Mkuu inawatakia heri ya mwaka mpya
+train,264,1,Matapeli ni wengi ndugu yangu usije kosea kutuma ile hela tuma kwa namba hii 076 238 000
+train,265,0,Leo tunaenda Mhimbili kuwatembelea wagonjwa 
+train,266,1,Ule mzigo nitumie kwa namba hii ya voda 076 987 244
+train,267,0,Fundi saa anapatikana nyuma ya jengo jipya
+train,268,1,Unahitaji kazi haraka tuma kianzio kidogo kwa namba 076 112 093
+train,269,0,Usafiri wa kwenda na kuludi wa kwenda chuo utapatikana
+train,270,1,Jana nilikusubili mbona hukutuma ela nitumie kwa hii namba 076 238 987 
+train,271,0,Leo  kipindikitarushwa saa mbili usiku usikose
+train,272,1,Uliweka jana mzee leo jitahidi nitumia kwa namba hii 067 222 228
+train,273,0,Leo nitawahi kwenda chuo
+train,274,1,Mganga wa jadi anafuta madeni yote kwa haraka nitafute kwa 078 238 098
+train,275,0,Jumapili kutakuwa na kongamano hapa chuoni
+train,276,1,Mganga wa sumbawanga analudisha nyota ya hela namba 064 097 766
+train,277,0,Mkuu wa Mkoa atakuja chuo wiki ijayo kuzindua majengo
+train,278,1,Ile ela nisaidie ndugu yangu namba yangu ni 067 111 472 usajili DANI NZILANO
+train,279,0,Rushwa ni adui wa haki nukuu ya Moringe Sokoine
+train,280,1,Nifanyie mpango ndugu yangu ile hela kwa namba hii 078 234 876
+train,281,0,Leo mtandao unasumbua tangia asubuhi
+train,282,1,Mganga wa anakusaulisha na madeni mtafute kwa namba 078 234 876
+train,283,0,Kesho msisahau kuja na ile michango yetu 
+train,284,1,Jana ulisahau kunitumia ile hela fanya leo basi ndugu kwa hii namba 065 12 979
+train,285,0,Atakaye wahi fika chuo basi achukue na projector
+train,286,1,Rusha hela kwa namba yangu hii mpya ya haloteli 072 123 987
+train,287,0,Magari ya mwendokasi hayapiti njia ya Morrocco leo
+train,288,1,Mjomba wa Bariadi anahitaji sana mchango wako namba 072 987 098
+train,289,0,Jana tulienda hadi  mikocheni kwa ndugu yako
+train,290,1,Wananisumbua sana ile hela tuma kwa hii namba ya haloteli 072 762 986
+train,291,0,Wakazi wa Jangwani hawataweza kufika kwa muda sahihi
+train,292,1,Ile ela fanya nirushie kwa namba hii 078 233 2829 usajili PETER ARIKO
+train,293,1,Nimesajili namba mpya ile hela tuma kwa hii namba 072 282 8282
+train,294,0,Nahitaji aliye na  power bank anisaidie 
+train,295,1,Mganga mashuhuri kutoka Kongo atatatua matatizo yako nitafute 076 282 9282
+train,296,0,Leo nitwahi fika chuo 
+train,297,1,Tuma ile hela kwa namba hii 078 2627 887 usajili AMISI NGO'DA
+train,298,0,Hii ndio itakuwa ni muhula wa mwisho kukaa chuo
+train,299,1,Sasa ile hela tuma kwa hiinamba 0672 123 988 jina litakuja Halima Naftali
+train,300,0,Kesho tutafanya discusion ya pepa lilipita
+train,301,1,Ujitahidi kunitumia ile hela na shida nayo namba ni 067 123 3992 usajili Damek Nziku
+train,302,0,Amesea yuko njiani anakuja 
+train,303,1,Mganga wa Jadi analudisha mali zote namba yangu ni 0782 293 839
+train,304,0,Wanahitajika wataalamu wa mifumo ya maji pale wizarani
+train,305,1,Mbona jana hikutuma ile hela tuma kwa namba hii 0789 122 333
+train,306,0,Kwani wanahitaji wataalamu wangapi?
+train,307,1,Nina haraka fanya unitumie ile hela kwa namba hii mpya 0678 098 678
+train,308,0,Mwalimu leo ameacha asseignment ?
+train,309,1,Leo nasubili mpaka unitumie ela yangu namba yangu ni hii 0783 903 893
+train,310,0,Mwalimu anawasubili darasani
+train,311,1,Anahitaji ile ela yake ya jana uliyo mwahiidi tuma kwa namba hii 0789 223 039
+train,312,0,Wagonjwa wenye biam watapewa kipaumbele
+train,313,1,Hamisi wa Morogoro anakukumbusha umtumie ela kwa namba hii 0678 293 938
+train,314,0,Leo ndio fainali ya UEFA 
+train,315,1,Nimekutumia namba mpya uni rushie ela simu yangu imepotea namba ni 0782 893 992
+train,316,0,Leo kulikuwa na mashindano gani ?
+train,317,1,Ndugu yako kutoka Kibosho HALIMA NZOO ile ela tuma kwa namba hii 0722 728 900
+train,318,0,Leo siku nzima mmekesha kanisani kwani ?
+train,319,1,Sasa ela nina shida nayofanya nitumie kwa hii namba 0789 098 383
+train,320,0,Sitaweza kuja kwenu niko na dharura
+train,321,1,Tuma kwa hii namba jina litakuja BENI ZAKI namba ni 0678 282 928
+train,322,0,Itabidi tufanye sherehe ya darasa
+train,323,1,Mganga wa Kienyeji kutoka mara anakupa pesa za majini namba ni 0789 938 989
+train,324,0,Mwenye mawasiliano na findi yeyote wa laptop aniambie
+train,325,0,Hela ile rusha kwa hii namba 0678 123 883 usajili BARAKA PAYOVELA
+train,326,1,Nafasi za kazi zitatangazwa mwisho wa mwezi huu
+train,327,1,Leo jitahidi kunitumia ile hela kwa namba hii 0678 988 829
+train,328,0,Msaada jamani mwenye notices za Computer Security
+train,329,1,Namba yangu mpya ni 0762 829 929 usajili AMINA ZAINABU ela ile tuma kwa hii namba
+train,330,0,Yule jamaa aliweza kukutafuta
+train,331,1,Nyumbani wanahitaji ela fanya  tuma kwa hii namba 0678 987 889
+train,332,0,Leo sitoweza fika chuo nitaenda wizarani 
+train,333,1,Nimepiata nyumbani kweni umeabiwa utume ela kwa namba hii 0678 122 098
+train,334,0,Atakaenda kaliakoo basi ataweza niambia
+train,335,1,Fanya ile ela kutuma kwa hii namba ya haloteli 0721 987 890
+train,336,0,Wakazi wa Arusha wanahitajika ofisini
+train,337,1,Jana hukuweza tuma ela basi leo tuma kwa hii namba 0678 828 839
+train,338,0,Watakao enda club naomba tufanye tujuane
+train,339,1,Namba yangu ya tigo unitumie ile ela 0677 920 929 usajili SAID JERSON
+train,340,0,Wanaohitaji vitambulisho vya taifa waende kwa dean
+train,341,1,Ile ela fanya tuma kwa hii namba mpya ya haloteli 0722 876 987
+train,342,0,Anaye hitaji computer used basi anicheki 
+train,343,1,Sasa ela tuma kwa namba hii mpya ya tigo 0651 876 879
+train,344,0,Aliye elewa somo lililopita basi atanielekeza
+train,345,1,Mganga kutoka kigoma anakupa nyota ya ela namba yangu ni 0786 282 928
+train,346,0,Chakula cha take away kinapatikana pale geti dogo
+train,347,1,Nitumie ela kwa hii namba 0768 897 879 usajili ZIADA MICHAEL
+train,348,0,Kipindi kilichopita sikuweza hata kufika
+train,349,1,Ile ela nitumie kwa hii namba 0678 876 778
+train,350,0,Nimetuma nafasi za kazi kupitia link yenu 
+train,351,1,Mbona ela hukutuma kwa namba yangu tuma kwa hii namba 0712 7633 887
+train,352,0,Kwa wanaohitaji volunteer job wanaweza fika pale ofisini
+train,353,1,Mimi ni baba mwenye nyumba yako simu yangu ina shida tuma ile hela kwa 0783 383 838 jina  ALPHOSE MAIGE
+train,354,0,Kesho kipindi ni asubuhi saa 1.30
+train,355,1,Ntumie iyo hela kwenye namba hii hapa 0769787788..itume sasa hivi nipo mpesa
+train,356,0,Mwambie apie kwa wensite kuna kila kitu
+train,357,1,Nitumie ile ela kwa hii namba ya tigo 0712 888 828
+train,358,0,Naona kashaanza kuleta drama 
+train,359,1,Ile hela niafanyie kwenye namba hii ya haloteli 072 128 997
+train,360,0,Huku kwetu mvua inanyesha sana
+train,361,1,Baba mwenye nyumba anahitaji ela yake tuma kwa namba hii 0716 87 7889
+train,362,0,Kama una nafasi waweza enda mahakamani
+train,363,1,Nitumie ile hela kwa namba hii 0780 987 899 usajili AMIRI ABEGO
+train,364,0,Mazingira yapasa vile tutunze 
+train,365,1,Jana ulisahau kutuma hela fanya nitumie kwa namba hii 0788 988 987 usajili wake ni harry yusuph
+train,366,0,Lazima nitaenda Nairobi kumpa zawadi
+train,367,1,Mganga kutoka kigoma anakupa suruhisho la hela nitafute kwa namba 07122  876 89
+train,368,0,Kwani kitu wahitaji mzee
+train,369,1,Fanya haraka kunitumia ile hela namba yangu mpya ni 0787 888 899
+train,370,0,Wanamwita Baba Keagan
+train,371,1,Nimesajili namba mpya ile hela nitumie kwa namba hii 0788 727 000
+train,372,0,Nitapanda hata kwa juu
+train,373,1,Niko kwa wakala ile hela nitumie kwa hii namba 0787 777 100
+train,374,0,Kwako ujanja sina ujue
+train,375,1,Ndugu yako wa Bukoba anahitaji hela ya kununulia shamba tuma kwa hii namba 0788 876 111
+train,376,0,Maisha ya shule ni tamu sana
+train,377,1,Simu imeharibika sina ela fanya nitumie kwa hii namba 0788 788 100 usajili Kelvin Said
+train,378,0,Dar es salaam ndio mahali salama kwako ujue
+train,379,1,Fanya haraka nakusubili kunitumia ile hela ya jana tuma kwa namba hii 0766 678 899
+train,380,0,Mimi naomba niseme na wewe kidogo
+train,381,1,Baba mwenye nyumba yuko safarini ile hela tuma kwa namba hii 0788 678 190 usajili BENI NNKO
+train,382,0,Watu fulani wanasema nikuache
+train,383,1,Namba yangu ni hii 0788 111 908 ile hela tuma kwa hii namba simu iliibiwa
+train,384,0,Napenda kuimba mama ujue
+train,385,1,Ile ya kodi ya nyumba tuma kwa hii namba 0712 899 929
+train,386,0,Jana sikuweza kufanya ile asseignment yake
+train,387,1,Mganga kutoka Kigoma analudisha ela iliyopotea msaada namba 0789 928 929
+train,388,0,Ile asseignment mlikusanya lini
+train,389,1,Anko wa mbinga anaomba umtumie ela simu yake imeharibika tuma kwa hii namba 0788 922 929
+train,390,0,Hii ndio semester yenu ya mwisho hapa chuoni
+train,391,1,Ile hela nitumie kwa hii namba 07828 88 8292 usajili wangu DAREK LAMEK
+train,392,0,Ticha kasema kazi hakuna kufanyiana
+train,393,1,Sasa ile ela fanya urushe kwa hii namba 0788 889 999 usajili WARID MWITA
+train,394,0,Kwani nyie mnaka mtaa gani
+train,395,1,Mwenye nyumba Makongo ela kwa muhula huu tuma kwa hii namba 0733 900 000 usajili NZOYA MARWA
+train,396,0,Atakuwa anahitaji kazi atanambia
+train,397,1,Mimi ndugu yako wa Mara simu imeharibika tuma kwa hii namba ile hela 07267 99 99 usajili HURUMA IMANI
+train,398,0,Leo ni maadhimisho ya wafanyakazi duaniani
+train,399,1,Tuma ile hela namba yangu ni 0788 544 66 usajili said salim
+test,0,0,kesho nafanya mahafali yangu
+test,1,1,Usisahau kutuma ilehela kwa namba hii  ya tigo 0715480789
+test,2,0,usiku mwema rafiki yangu
+test,3,1,Ile  hela nitumie kwa namba yangu mpya hii 0712 123 234 Ambwene Nyota
+test,4,0,leo nimekumbuka kukutafuta
+test,5,1,Ile hela tuma kwa namba hii 0712 200 300 Ally Juma
+test,6,0,Repoti utatuma lini ?
+test,7,1,Tuma kwa namba hii ya tigo 0712 452 24 Kassim Athuman
+test,8,0,Usisahau unahitajika ofisini
+test,9,1,Sasa nitumie ile hela kwa namba 0755 211 879 mimi ni Amina Hasani
+test,10,0,Naomba unitumie kile kitabu cha mwalimu
+test,11,1,Nimebadilisha namba tuma kwa namba hii mpya 0712 345   234
+test,12,0,Leo utaenda wapi kijana
+test,13,1,Nyumbani kuna dharura fanya haraka kutuma kwa namba hii 0718 299 24
+test,14,0,Kuna mtu kaniazima chaji mpaka badae
+test,15,1,Jana ulikosea kutuma hela fanya haraka kutuma kwa hii ya voda 065123098
+test,16,0,Nitachelewa kuludi
+test,17,1,Jana ulikosea kutuma hela fanya haraka kutuma kwa hii ya voda 0718200897
+test,18,0,Nishikie siti ya mbele ya mwalimu
+test,19,1,Tuna shida ya ada ya mdogo wako tuma kwa namba hii 0718 234 567 Haruna  Magoli
+test,20,0,Usinunue maji nimeshanunua
+test,21,1,Tuna shida ya muhimu sana huku nyumbani tuma kupitia namba hii 0712 353 098
+test,22,0,Mwalimu anachukua mahudhurio darasani
+test,23,1,Mdogo wako anahitaji hela ya matumizi shuleni tuma kwa namba hii 0712 345 876
+test,24,0,Malimu ameshaingia darasani
+test,25,1,Dada yako anahitaji hela kwa ajili ya mtoto wake umtumie kwa namba hii 0718 678 45
+test,26,0,Nikipanda gari za kimara nishuke wapi
+test,27,1,Mama yako anahitaji hela tuma kwa namba hii 075532124 Charles Nzota
+test,28,0,uko wapi kijana ?
+test,29,1,Kuna hela inahitajika nyumbani kwa ajili ya ujenzi tuma kwa namba hii 0767200231
+test,30,0,Nimeshakutumia ratiba utanamia kama hujaiona 
+test,31,1,Usisahau kutuma nyumbani hela ya ujenzi kwa namba hii 0712 345 234
+test,32,0,Njoo kwenye vimbweta si tulikubaliana 
+test,33,1,Ile hela ya mchango wa harusi tuma kwa namba hii ya kiongozi 078612312
+test,34,0,Tafadhari nipigie
+test,35,1,Mdogo wako anahitaji hela ya matumizi chuoni  tuma kwa namba hii 0712 345 200
+test,36,0,Samahani nani wewe
+test,37,0,Usisahau kutuma hela kwa namba hii 072 345 786 usajili ni Jacob Nziku
+test,38,0,Kwani amekwambia ni kiasi gani?
+test,39,1,Nimeishiwa hela kabisa ya matumizi nitumie kwa namba hii 0718  200 24
+test,40,0,Mambo vip kijana
+test,41,1,Simu yangu imepotea ile hela tuma kwa namba yangu mpya 067 299 212 ALLY ALLY
+test,42,0,We si uko na mafundi shida nini mzee
+test,43,1,Dada yako anahitaji hela kwa ajili ya safari mtumie yake   hii 0718 000 678
+test,44,0,Angalia majina ya wenzako kwenye group
+test,45,1,Kuna dharura huku nyumbani fanya haraka utume kwa namba hii 078 234 098
+test,46,0,Ila swali lazima lina majibu maana jamaa ametupa hadi kitabu chake
+test,47,1,Ile hela usisahau kutuma kwa namba hii namba ya usajili ni 0721 234 345
+test,48,0,Mie simesahau kubeba chaji yako
+test,49,1,Mdogo wako anahitaji hela ya tutition tuma kwa namba hii 067 789 234
+test,50,0,Bado swali lenyewe sina nawasubili wadau wafike
+test,51,1,Hela inahitajika nyumbani kuna mgonjwa 
+test,52,0,Umeanza kufanya kazi ya mwalimu
+test,53,1,Tumia hii namba kutuma hiyo pesa 0782 2334 098 usajili IBRAHIM SEIF
+test,54,0,Basi mimi nitaondoka muda si mrefu
+test,55,1,Ile hela itume kwa namba hii 0756 200 345 simu yangu inasumbua haiwaki
+test,56,0,Ninyi kama mnabaki mimi natangulia 
+test,57,1,Ile hela itume kwa namba hii 0756 987 345 jina litakuja DEBORA ELIA
+test,58,0,Leo naondoka mapema
+test,59,1,Makosa jana ya kutuma hela kwa mpesa  tuma kwa namba hii 0789 234 098
+test,60,0,Tangulia mzee nitakukuta pale kituoni
+test,61,1,Niliibiwa simu nimesajili laini mpya ile hela nitumie kwa namba hii 078 234 123
+test,62,0,Fanya maamuzi mapema maana leo tunawahi kuondoka 
+test,63,1,Namba yangu mupya ya simu nitumie ile hela kwa namba hii 078 123 567
+test,64,0,Mijengo nitaunga cha usiku 
+test,65,1,Mjomba wako anahitaji hela tuma kwa namba hii 067 242 098
+test,66,0,Unaenda kanisani ?
+test,67,1,Ile hela itume kwa namba hii 0712 342 987 jina linakuja Hamisa Mzee
+test,68,0,Mbona hujatuma ile kazi ?
+test,69,1,Nimekusubili tangia asubuhi mbona hutumi hela tuma kwa namba hii 07824 265 22
+test,70,0,Labda nikipata nitakupa zawadi siku nyingine
+test,71,1,Kuna mmatapeli  usitume hela kwa namba nyingine namba yangu ni hii 0712 345 876
+test,72,0,Mi hali yangu sio nzuri
+test,73,1,Nimesajili laini mpya ile hela tuma kwa namba hii 0781 242 345 Omary Jason
+test,74,0,Mi nikajua mtanifanyia sherehe
+test,75,1,Nimeibiwa simu ile hela tuma kwa namba hii 0782 345 677
+test,76,0,Nimekimbia wasije nimwagia maji
+test,77,1,Mbona bado hujanitumia ile hela 0712 564 876 Naftali Mpawa
+test,78,0,Ikipatikana uhakika wa kuishi upo mama
+test,79,1,Ile hela nitumie kwa namba hii 078 122 098 Kanzi Nyagwa
+test,80,0,Ndo nisome kwanza nione kama kitu kinaweza kufanyika
+test,81,1,Niko hapa kwa wakala tuma kwa namba hii 0712 35445
+test,82,0,Yule mzee ukimwelesha atakuelewa
+test,83,1,Ile laini nimepoteza nimesajili laini mpya tuma kwa namba hii 067 24 9872
+test,84,0,Unakuja saa ngapi chuo ?
+test,85,1,Ile hela tuma kwa namba hii 0755 422 542
+test,86,0,Hiyo kazi tutafanya kesho lakini
+test,87,1,Ile hela tuma kwa  namba hii 0782 124 21
+test,88,0,Nimeuliza baadhi ya wataalamu lakini hawako dar
+test,89,1,Tuma kwa namba hii ya michango ya kikundi 0712 242 244 Imelda  Sanga
+test,90,0,Kwanza hata laki ni ndogo sanaa
+test,91,1,Usichelewe kutuma hela ya msiba kwa namba hii 078 123 456
+test,92,0,Yaani nisingeuliza ningefeli ujue
+test,93,1,Leo usikose kutuma hela ya deni langu  kwa namba hii 0672 123 987
+test,94,0,Jamani mbona una utani na mimi gari nimepata wapi  ?
+test,95,1,Nakumushia kodi ya nyumba itumwe kwa namba hii 078 234 654
+test,96,0,Hamna shida rafiki yangu
+test,97,0,Ahadi yangu ya kufaulu mitihani ntume kwa namba hii 0712 67 234
+test,98,0,Kwa madili uliyo nayo ushatoka kimaisha
+test,99,1,Fanya  haraka kunituia hela kwa namba hii  0712 4 6768
+test,100,0,Najua wewe ni tajiri ukipata  kazi usinisahau
+test,101,1,Kodi ya mwezi huu nitumie kwa namba hii 078 123 422
+test,102,0,Sina kitu nimetumia yote yaani
+test,103,1,Jana ulishau kutuma hela fanya tuma kwa namba hii 078 242 239 Hasan Mussa
+test,104,0,Nimefuria rafiki yangu
+test,105,1,Mimi mwenye nyumba namba ya kutuma hela ni hii 0712 45 098
+test,106,0,Nasubili keki yangu
+test,107,1,Ile hela itumwe kwa namba hii 0782 233 456
+test,108,0,Hapana nitarudi badae
+test,109,1,Sina simu hela nitumie kwa namba hii 0782 344 788
+test,110,0,Hapana nilienda kula keki tu 
+test,111,1,Niazimie hela ntumie kwa namaba 0734 458 844
+test,112,0,Nikajua hali imebadilika ndo umeludi nyumbai
+test,113,1,Mbona hujatuma ile  hela tuma kwa namba hii 0783 897 838
+test,114,0,Nilienda kusalimia tu nyumbani
+test,115,1,Ile hela usisahau kurusha kwa namaba hii 0712  343 233
+test,116,0,Jioni nitakuja
+test,117,1,Nitumie ile hela kwa namaba hii 0717 344272y TITO MENARD
+test,118,0,Mbona hupokei simu
+test,119,1,Nisaidie kutuma hela kwa namba yangu hii 0788 200 455
+test,120,0,Kwani darsani kuna umeme?
+test,121,1,Hela ya kulindia mifugo ntumie kwa namba hii 0781 673 
+test,122,0,Usisahau nilichokwambia
+test,123,1,Ile hela nifanyie kwa hii namba 0788 243 889
+test,124,0,Wamesemaje leo darasani ?
+test,125,1,Jana hukutuma hela jitahili leo utume kwa hii namba 0781 347 737
+test,126,0,Umekata simu wakati unapita nimekuona
+test,127,1,Kijana hela ya usafi wa mazingira ni zmu yako tuma kwa 0782 772 767 MOE JOHN
+test,128,0,Nitumie sms niko darasani
+test,129,1,Hela ya vyombo inahitajika tuma kwa hii namba 0788 243 288
+test,130,0,Bado uko darasani ?
+test,131,1,Nirushie ile hela kwa hii ya tigo pesa 0717  200 448
+test,132,0,Ile kazi nimeshamtumia mwalimu
+test,133,1,Leo usisahau kurusha ile hela namba 0788 211 333 usajili Keneth Vumu
+test,134,0,Sasa kesho nitaelezea nini ?
+test,135,1,Natumani umeamka salama ile hela tuma kwa namba hii 078 1244 898
+test,136,1,Hela ya mikorosho inahitajika tuma kwa mpesa 0753 234 444
+test,137,1,Hela inahitaji nyumbani tuma kwa hii namba 0718 200 345
+test,138,0,Mshiriki no 5 ni kula marunda
+test,139,1,Fanya haraka kunitumia ile pesa  kwa hii namba 0782 337 383
+test,140,0,Wahi nafasi yako kijana
+test,141,1,Mimi ndugu  yako nilikuja mwaka jana nisaidie hela kwa namba hii 0783 488 338
+test,142,0,Mikorosho ipo tu lakini bonanza ni letu pia
+test,143,1,Shangazi yako hapa nitumie kwa namba hii 0782 112 987 ALLU MALACHI
+test,144,0,Mikorosho umehesabu au ndo unamwogopa chui
+test,145,1,Dadako anahitaji hela ya matumizi tuma kwa hii namba 0788 111 111
+test,146,0,Nafikiri mmesikia tangazo vizuri mnajijua 
+test,147,1,Jana ultuma hela ndogo tuma tuma kwa hyoya 0788 47 8 383
+test,148,0,Leo  kuna kipindi ?
+test,149,1,Mchango wa kikundi tuma kwa namba hii 0782 453 748
+test,150,0,Nisaidie kujibu hayo maswali basi 
+test,151,1,nyumbani wanakusubili wewe tuma  hela kwa namba hii 0763 244 875
+test,152,0,Hiki ni nini ?
+test,153,1,Namba hii ya voda  ndo nitumie hela 0756 346 322
+test,154,0,Watu wa elimu tuko darasani 
+test,155,1,Vibarua wanasubili hela fanya nitumie kwa namba hii 0781 234 46
+test,156,0,Mimi taarifa hata angetoa Kimaro ningeamini
+test,157,1,Usiniangushe na leo nitumie hela yote kwa namba hii 0789 244 345
+test,158,0,Chukua maji hapo  nalipa mimi
+test,159,1,Vijana wanahitaji hela ya mizigo tuma kwa namba hii 0673 123 875
+test,160,0,Jamani kipindi hakitakuwepo leo itabidi tutafute muda wa kukifanya
+test,161,1,Nakutegemea leo hutochelewa kunitumia kwa namba hii 0754 234 784
+test,162,0,Sawa kiongozi taarifa zimetufikia
+test,163,1,Leo usisahau kutuma hela kwa namba hii 0671 234 454 Subira Dameki
+test,164,0,Hivi ile kazi inakusanywa lini ?
+test,165,1,Nategemea leo unanitumia ile hela kwa namba hii 0671 234 098
+test,166,0,Jamani aliyefanikiwa kufanya kazi ya Mwalimu
+test,167,1,Lile deni  lililobaki utaniyumia kwa hii namba 0712 243 222 
+test,168,0,Mvua inanyesha huku mkuu
+test,169,1,Nitumie ile hela kwa namba hii 0786 123 876 inahitajika kesho
+test,170,0,Ivi kiongozi ushapewa mwongozo wa darasa la leo ?
+test,171,1,Siwezi kukupata fanya  ile hela nitumie kwa hii namba 067 123 0982
+test,172,0,Kama hauna bima nenda ofisini ya wanafunzi
+test,173,1,Namba yangu mpya ya tigo ni 0712 234 098 ile hela tuma humu
+test,174,0,Hakutokuwa na kipindi leo
+test,175,1,Ile hela tuma kwa namba hii 0712 633 667 Moses Amidi
+test,176,1,Vijana fanyeni michango huku mambo ni mengi
+test,177,1,Tuma hela ya usafi kwa namba hii 0789 234 987 Charles Mwita
+test,178,0,Utakuwa labda sio mwanafunzi wa ISM
+test,179,1,Mimi ndugu  yako wa kaka yako nitummie hela kwa namba 0788 908 986
+test,180,0,Kijana una matatizo wewe
+test,181,1,Kijiji huku hatuna hela tuma kwa namba hii 0718 365 907
+test,182,0,Mi nadhani tutumie makundi ya mwalimu
+test,183,1,Ulikosea kutumahelatuam kwa namba hii mpya 0718 243098
+test,184,0,Kazi hii ni nyepese itaisha leo 
+test,185,1,Unadaiwa hela ya maji fanya kutuma kwa namba hii 078 123 987 PILLI MIKAEL
+test,186,0,Mungu aendelee kukudumisha
+test,187,0,Uludi  mapema chuo kijana
+test,188,1,Hujaacha hela ya matumizi fanya kutuma kwa namba hii 078 123 098
+test,189,0,Naona umetumia fulsa hapa hapa
+test,190,1,Tuma kwa namba hii ya tigo 0712 675 098
+test,191,0,Si ulkuwepo kwenye kipindi
+test,192,1,Zamu ya luku ni wewe fanya mapema kutuma hela kwa namba 078 127 890
+test,193,0,Naoan unatupahistoria kwa ufupi mama
+test,194,1,Hela ya umeme fanya utume kwa namba hii 067 236 767 OPPI NZILANO
+test,195,1,Makongo  leo hakuna matope
+test,196,0,Laini ya simu nimepoteza nimesajili namba mpya ile hela tumwa kwa 078 674 234
+test,197,1,Kazi ya mwalimu jumatatu inakusanywa
